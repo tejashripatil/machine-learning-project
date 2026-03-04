@@ -27,5 +27,5 @@
 4. Model development and Evaluation
 5. deployment
 
-#Lifecycle is iterative
-# data collection and data preparation is called ETL Process: extract, transform and load.
+-Lifecycle is iterative
+-data collection and data preparation is called ETL Process: extract, transform and load.
